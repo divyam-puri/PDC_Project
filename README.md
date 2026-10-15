@@ -452,17 +452,16 @@ Unauthorized password cracking is illegal in most jurisdictions.
 ## Team Members
 
 **VibeCoders Team**
-- Member 1: [Your name]
-- Member 2: [Your name]
-- Member 3: [Your name]
-- Member 4: [Your name]
+- Member 1: Divyam Puri
+- Member 2: Ananya Kumar
+- Member 3: Bharti Verma
+- Member 4: Lavish Arora
 
 ## Submission Information
 
 - **Course:** UCS645 - Parallel and Distributed Computing
 - **Submitted To:** Dr. Saif Nalband
-- **Date:** [Submission date]
-- **Institution:** [Your university]
+- **Institution:** Thapar Institute of Engineering & Technology
 
 ## License
 
